@@ -90,6 +90,9 @@ class ViewController: UIViewController {
         myCallButton.isHidden = false
         
         myLabel.text = ""
+        
+        inCall = false
+
 
     }
     
